@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.social-media-links{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+.name-container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+.nav-container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+}
+.nav-link{
+    color: lightslategray;
+}
+.nav-link:hover{
+    color: rgb(57, 65, 73);
+}
+.social-media-links i{
+    color: lightslategray;
+}
+.social-media-links i:hover{
+    color: rgb(57, 65, 73);
+}
