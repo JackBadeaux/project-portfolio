@@ -32,3 +32,21 @@ body{
 .social-media-links i:hover{
     color: rgb(57, 65, 73);
 }
+.header-name{
+    color: lightslategray;
+}
+.selfie{
+    width: fit-content;
+}
+.selfie-group{
+    display: flex;
+    justify-content: center;
+}
+.selfie-group p{
+    margin: 3px;
+}
+.text-selfie-group{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
