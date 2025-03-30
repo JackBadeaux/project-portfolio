@@ -95,8 +95,10 @@ p{
     color: rgb(43, 102, 4);
 }
 .project-item{
-    line-height: 1px;
     margin-top: 10px;
+}
+.project-item p{
+    margin-bottom: 5px;
 }
 .project-item img{
     border-radius: 20px;
