@@ -58,6 +58,7 @@ body{
     justify-content: space-evenly;
     color: rgb(43, 102, 4);
     margin: 3px;
+    margin-top: 20px;
 }
 .footer-container{
     display: flex;
@@ -79,6 +80,7 @@ header{
 main{
     background-color: chartreuse;
     flex: 1;
+
 }
 footer{
     background-color: lime;
@@ -90,6 +92,9 @@ footer{
     .text-selfie-group {
         justify-content: center;
         align-items: center;
+    }
+    .project-item p{
+        margin-bottom: 40px;
     }
 }
 html, body {
@@ -103,9 +108,7 @@ p{
 .project-item{
     margin-top: 10px;
 }
-.project-item p{
-    margin-bottom: 5px;
-}
+
 .project-item img{
     border-radius: 20px;
     content: '';
