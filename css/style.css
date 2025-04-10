@@ -97,6 +97,7 @@ footer {
     margin: 0;
     padding: 0;
 }
+
 header{
     background-color: lime;
 }
@@ -106,7 +107,7 @@ main{
 
 }
 footer{
-    background-color: lime;
+    background-color: rgb(153, 118, 5);
 }
 
  @media (max-width: 767px) {
