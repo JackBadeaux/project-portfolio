@@ -88,7 +88,9 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: rgb(43, 102, 4);
+}
+.footer-container p {
+    color: rgb(14, 69, 3);
 }
 .cus-hr{
     border: none;
@@ -131,6 +133,9 @@ p{
 }
 .project-item{
     margin-top: 10px;
+}
+.project-item{
+    text-align: center;
 }
 
 .project-item img{
